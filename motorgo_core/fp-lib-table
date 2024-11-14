@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "easyeda")(type "KiCad")(uri "U:/pcb/project_core/motorgo_core_hardware/LCSC_parts/kicad_lceda.pretty")(options "")(descr ""))
+  (lib (name "mg_mini_v1r3")(type "KiCad")(uri "U:/pcb/project_plink/motorgo-plink-hardware/ProjectGoSpecificLibraries/motorGoMini/mg_mini_v1r3.pretty")(options "")(descr ""))
+  (lib (name "alex_awesome_lib")(type "KiCad")(uri "U:/motorgo_pcb/AwesomeAlexLibrary/AwesomeAlex.pretty")(options "")(descr ""))
+)
