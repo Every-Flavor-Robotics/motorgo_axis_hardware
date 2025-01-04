@@ -10078,7 +10078,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "7f1f4ae6-75b7-419d-a69a-9e723dfdaf0b")
 		(property "Reference" "J5"
 			(at 171.958 70.612 0)
@@ -10231,7 +10231,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED red"
 			(at 46.99 168.5925 90)
 			(effects
 				(font
@@ -10464,7 +10464,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED blue"
 			(at 27.94 168.5925 90)
 			(effects
 				(font
@@ -10531,7 +10531,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8a460b3f-1fef-4c0c-9ec3-c68731ff443f")
 		(property "Reference" "J9"
 			(at 179.832 70.612 0)
@@ -10989,7 +10989,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "LED green"
 			(at 38.1 168.5925 90)
 			(effects
 				(font
@@ -11133,7 +11133,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "C2886897"
 			(at 167.64 40.005 0)
 			(effects
 				(font
@@ -11395,7 +11395,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b6e72874-fb34-4418-bf63-ba22c66e7505")
 		(property "Reference" "J12"
 			(at 187.452 70.612 0)
@@ -12020,7 +12020,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "C2886897"
 			(at 183.515 40.005 0)
 			(effects
 				(font

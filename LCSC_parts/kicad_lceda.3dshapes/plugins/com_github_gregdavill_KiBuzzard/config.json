@@ -1,0 +1,19 @@
+{
+  "MultiLineText": "check our docs!",
+  "HeightCtrl": 1.2,
+  "FontComboBox": "UbuntuMono-B",
+  "LayerComboBox": "F.SilkS",
+  "CapLeftChoice": "(",
+  "CapRightChoice": ">",
+  "PaddingTopCtrl": 1.0,
+  "PaddingLeftCtrl": 0.0,
+  "PaddingRightCtrl": 8.0,
+  "PaddingBottomCtrl": 1.0,
+  "LineSpacingCtrl": 1.5,
+  "WidthCtrl": 0.0,
+  "AlignmentChoice": "Center",
+  "advancedCheckbox": false,
+  "inlineFormatTextbox": false,
+  "lineoverStyleChoice": "Square",
+  "lineoverThicknessCtrl": 1
+}

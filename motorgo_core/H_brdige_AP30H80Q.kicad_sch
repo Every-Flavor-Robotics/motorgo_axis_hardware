@@ -4360,7 +4360,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "01ef1477-f3eb-471d-aef3-2134e27ae567")
 		(property "Reference" "J8"
 			(at 227.0731 116.814 0)
@@ -5660,7 +5660,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 10v"
 			(at 187.96 105.41 0)
 			(effects
 				(font
@@ -6055,7 +6055,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 25v"
 			(at 68.58 95.25 0)
 			(effects
 				(font
@@ -6592,7 +6592,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "D_Schottky C7420331"
 			(at 163.83 91.1225 90)
 			(effects
 				(font
@@ -7025,7 +7025,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 10v"
 			(at 168.91 95.25 0)
 			(effects
 				(font
@@ -7373,7 +7373,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 10v"
 			(at 147.32 85.09 0)
 			(effects
 				(font
@@ -7472,7 +7472,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "D_Schottky C7420331"
 			(at 142.24 80.9625 90)
 			(effects
 				(font
@@ -7555,7 +7555,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Schottky"
+		(property "Value" "D_Schottky C7420331"
 			(at 182.88 101.2825 90)
 			(effects
 				(font

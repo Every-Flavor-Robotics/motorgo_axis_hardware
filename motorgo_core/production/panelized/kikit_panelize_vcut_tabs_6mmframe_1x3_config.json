@@ -1,0 +1,34 @@
+{
+    "layout": {
+        "hspace": "6mm",
+        "vspace": "6mm",
+        "rows": "3"
+    },
+    "tabs": {
+        "type": "fixed",
+        "vcount": "2",
+        "hcount": "3",
+        "cutout": "2mm",
+        "fillet": "0.1mm"
+    },
+    "cuts": {
+        "type": "vcuts",
+        "layer": "Edge.Cuts"
+    },
+    "framing": {
+        "type": "tightframe",
+        "hspace": "3mm",
+        "vspace": "3mm",
+        "width": "6mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm"
+    },
+    "fiducials": {
+        "type": "4fid",
+        "hoffset": "15mm",
+        "voffset": "2mm"
+    }
+}

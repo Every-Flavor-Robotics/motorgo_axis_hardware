@@ -2783,7 +2783,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 10v"
 			(at 64.4602 120.678 0)
 			(effects
 				(font
@@ -3479,7 +3479,7 @@
 				)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100nF 10v"
 			(at 72.7152 119.987 0)
 			(effects
 				(font
@@ -3896,7 +3896,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
+		(property "Value" "1uF 10v"
 			(at 85.09 120.1038 0)
 			(effects
 				(font
