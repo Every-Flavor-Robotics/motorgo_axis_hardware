@@ -4,7 +4,7 @@
 (This is a first pass draft, so be patient with my formatting and content)
 
 - Full board 3D:
-![image](https://github.com/user-attachments/assets/888fb5a2-9f6f-469a-b9ad-b2835c0a30cd)
+![image](https://github.com/user-attachments/assets/d726a93e-4ecc-4fa8-8ea6-cdbdca14860d)
 
 - Top level
 ![image](https://github.com/user-attachments/assets/5b3b73f7-92be-4b5f-83f8-2cd19c3fed36)
@@ -22,7 +22,8 @@
 ![image](https://github.com/user-attachments/assets/3a683c4c-51f1-47c6-8e41-96a581ff5889)
 
 - Dimensions 
-![image](https://github.com/user-attachments/assets/22c7f30d-700c-4056-9f08-6dc1528d7d30)
+![image](https://github.com/user-attachments/assets/4c7cf0fb-276e-4e99-b768-0264188bd0a6)
+
 
 
 ## Demo
