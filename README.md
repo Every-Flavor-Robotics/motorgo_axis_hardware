@@ -22,8 +22,7 @@
 ![image](https://github.com/user-attachments/assets/3a683c4c-51f1-47c6-8e41-96a581ff5889)
 
 - Dimensions 
-![image](https://github.com/user-attachments/assets/4c7cf0fb-276e-4e99-b768-0264188bd0a6)
-
+![image](https://github.com/user-attachments/assets/80ad26e7-f607-4582-b187-b751deee644f)
 
 
 ## Demo
